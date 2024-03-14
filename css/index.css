@@ -6533,5 +6533,8 @@ blockquote.pullquote.right {
   background: rgba(0,0,0,0.6);
 }
 #page-header #site-title {
+  opacity: 0;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  filter: alpha(opacity=0);
   display: none;
 }
