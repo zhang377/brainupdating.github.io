@@ -6532,3 +6532,6 @@ blockquote.pullquote.right {
   display: none;
   background: rgba(0,0,0,0.6);
 }
+#page-header #site-title {
+  display: none;
+}
